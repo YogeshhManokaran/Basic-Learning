@@ -30,18 +30,13 @@ public class HashMap {
 		System.out.println(hashMap.get(5));
 		System.out.println(hashMap.values());
 		System.out.println(hashMap.entrySet());
-		
-		
-		
+			
 	}
 	
-	
-
 	public static void main(String[] args) {
 		HashMap hashMap = new HashMap();
 		hashMap.HashMapEx();
-
-		
 	}
-
 }
+
+
