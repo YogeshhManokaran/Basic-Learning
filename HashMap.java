@@ -32,7 +32,6 @@ public class HashMap {
 		System.out.println(hashMap.entrySet());
 			
 	}
-	
 	public static void main(String[] args) {
 		HashMap hashMap = new HashMap();
 		hashMap.HashMapEx();
