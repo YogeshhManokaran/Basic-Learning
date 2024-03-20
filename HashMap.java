@@ -5,6 +5,7 @@ import java.util.Iterator;
 public class HashMap {
 	
 	public void HashMapEx() {
+		//Map contains a Key value pair
 		java.util.HashMap<Integer,String> hashMap = new java.util.HashMap<>();
 		hashMap.put(1," Hey Pam");
 		hashMap.put(2," Can you ");
